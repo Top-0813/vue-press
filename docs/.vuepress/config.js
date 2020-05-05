@@ -1,5 +1,5 @@
 module.exports = {
-    base: '/',
+    base: '/vue-press/',
     title: 'Top vlog',
     description: 'Just playing around',
     themeConfig: {
